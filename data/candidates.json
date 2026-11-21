@@ -1,0 +1,1278 @@
+[
+ {
+  "id": "C-001",
+  "name": "Aarav Mehta",
+  "gender": "M",
+  "age": 21,
+  "email": "aarav.mehta@example.com",
+  "location": "Bengaluru",
+  "years": 4,
+  "skills": [
+   "python",
+   "sql",
+   "rest api",
+   "docker",
+   "aws"
+  ],
+  "summary": "Candidate with hands-on work in python, sql, rest api.",
+  "notice_days": 30,
+  "expected_lpa": 11.4,
+  "relocate": true
+ },
+ {
+  "id": "C-002",
+  "name": "Priya Iyer",
+  "gender": "F",
+  "age": 28,
+  "email": "priya.iyer@example.com",
+  "location": "Remote",
+  "years": 3,
+  "skills": [
+   "python",
+   "sql",
+   "rest api",
+   "docker"
+  ],
+  "summary": "Candidate with hands-on work in python, sql, rest api.",
+  "notice_days": 45,
+  "expected_lpa": 12.6,
+  "relocate": true
+ },
+ {
+  "id": "C-003",
+  "name": "Rohan Khan",
+  "gender": "M",
+  "age": 25,
+  "email": "rohan.khan@example.com",
+  "location": "Bengaluru",
+  "years": 2,
+  "skills": [
+   "python",
+   "sql",
+   "docker"
+  ],
+  "summary": "Candidate with hands-on work in python, sql, docker.",
+  "notice_days": 30,
+  "expected_lpa": 10.8,
+  "relocate": true
+ },
+ {
+  "id": "C-004",
+  "name": "Sneha Joshi",
+  "gender": "F",
+  "age": 22,
+  "email": "sneha.joshi@example.com",
+  "location": "Chennai",
+  "years": 5,
+  "skills": [
+   "python",
+   "sql",
+   "rest api",
+   "docker"
+  ],
+  "summary": "Candidate with hands-on work in python, sql, rest api.",
+  "notice_days": 90,
+  "expected_lpa": 16.8,
+  "relocate": false
+ },
+ {
+  "id": "C-005",
+  "name": "Kabir Reddy",
+  "gender": "M",
+  "age": 29,
+  "email": "kabir.reddy@example.com",
+  "location": "Pune",
+  "years": 3,
+  "skills": [
+   "javascript",
+   "react",
+   "html",
+   "css",
+   "typescript",
+   "tailwind"
+  ],
+  "summary": "Candidate with hands-on work in javascript, react, html.",
+  "notice_days": 30,
+  "expected_lpa": 8.5,
+  "relocate": true
+ },
+ {
+  "id": "C-006",
+  "name": "Ananya Kulkarni",
+  "gender": "F",
+  "age": 26,
+  "email": "ananya.kulkarni@example.com",
+  "location": "Remote",
+  "years": 2,
+  "skills": [
+   "javascript",
+   "react",
+   "html",
+   "css",
+   "typescript"
+  ],
+  "summary": "Candidate with hands-on work in javascript, react, html.",
+  "notice_days": 45,
+  "expected_lpa": 9.5,
+  "relocate": true
+ },
+ {
+  "id": "C-007",
+  "name": "Imran Verma",
+  "gender": "M",
+  "age": 23,
+  "email": "imran.verma@example.com",
+  "location": "Pune",
+  "years": 1,
+  "skills": [
+   "javascript",
+   "react",
+   "html",
+   "typescript"
+  ],
+  "summary": "Candidate with hands-on work in javascript, react, html.",
+  "notice_days": 30,
+  "expected_lpa": 8.1,
+  "relocate": true
+ },
+ {
+  "id": "C-008",
+  "name": "Meera Das",
+  "gender": "F",
+  "age": 30,
+  "email": "meera.das@example.com",
+  "location": "Chennai",
+  "years": 4,
+  "skills": [
+   "javascript",
+   "react",
+   "html",
+   "css",
+   "typescript"
+  ],
+  "summary": "Candidate with hands-on work in javascript, react, html.",
+  "notice_days": 90,
+  "expected_lpa": 12.6,
+  "relocate": false
+ },
+ {
+  "id": "C-009",
+  "name": "Vikram Rao",
+  "gender": "M",
+  "age": 27,
+  "email": "vikram.rao@example.com",
+  "location": "Hyderabad",
+  "years": 4,
+  "skills": [
+   "javascript",
+   "node",
+   "sql",
+   "react",
+   "docker",
+   "mongodb"
+  ],
+  "summary": "Candidate with hands-on work in javascript, node, sql.",
+  "notice_days": 30,
+  "expected_lpa": 10.4,
+  "relocate": true
+ },
+ {
+  "id": "C-010",
+  "name": "Divya Gupta",
+  "gender": "F",
+  "age": 24,
+  "email": "divya.gupta@example.com",
+  "location": "Remote",
+  "years": 3,
+  "skills": [
+   "javascript",
+   "node",
+   "sql",
+   "react",
+   "docker"
+  ],
+  "summary": "Candidate with hands-on work in javascript, node, sql.",
+  "notice_days": 45,
+  "expected_lpa": 11.6,
+  "relocate": true
+ },
+ {
+  "id": "C-011",
+  "name": "Arun Chauhan",
+  "gender": "M",
+  "age": 21,
+  "email": "arun.chauhan@example.com",
+  "location": "Hyderabad",
+  "years": 2,
+  "skills": [
+   "javascript",
+   "node",
+   "sql",
+   "docker"
+  ],
+  "summary": "Candidate with hands-on work in javascript, node, sql.",
+  "notice_days": 30,
+  "expected_lpa": 9.9,
+  "relocate": true
+ },
+ {
+  "id": "C-012",
+  "name": "Neha Sharma",
+  "gender": "F",
+  "age": 28,
+  "email": "neha.sharma@example.com",
+  "location": "Chennai",
+  "years": 5,
+  "skills": [
+   "javascript",
+   "node",
+   "sql",
+   "react",
+   "docker"
+  ],
+  "summary": "Candidate with hands-on work in javascript, node, sql.",
+  "notice_days": 90,
+  "expected_lpa": 15.4,
+  "relocate": false
+ },
+ {
+  "id": "C-013",
+  "name": "Karan Singh",
+  "gender": "M",
+  "age": 25,
+  "email": "karan.singh@example.com",
+  "location": "Jaipur",
+  "years": 3,
+  "skills": [
+   "sql",
+   "excel",
+   "python",
+   "power bi",
+   "tableau",
+   "statistics"
+  ],
+  "summary": "Candidate with hands-on work in sql, excel, python.",
+  "notice_days": 30,
+  "expected_lpa": 7.6,
+  "relocate": true
+ },
+ {
+  "id": "C-014",
+  "name": "Pooja Nair",
+  "gender": "F",
+  "age": 22,
+  "email": "pooja.nair@example.com",
+  "location": "Remote",
+  "years": 2,
+  "skills": [
+   "sql",
+   "excel",
+   "python",
+   "power bi",
+   "tableau"
+  ],
+  "summary": "Candidate with hands-on work in sql, excel, python.",
+  "notice_days": 45,
+  "expected_lpa": 8.4,
+  "relocate": true
+ },
+ {
+  "id": "C-015",
+  "name": "Siddharth Patel",
+  "gender": "M",
+  "age": 29,
+  "email": "siddharth.patel@example.com",
+  "location": "Jaipur",
+  "years": 1,
+  "skills": [
+   "sql",
+   "excel",
+   "python",
+   "tableau"
+  ],
+  "summary": "Candidate with hands-on work in sql, excel, python.",
+  "notice_days": 30,
+  "expected_lpa": 7.2,
+  "relocate": true
+ },
+ {
+  "id": "C-016",
+  "name": "Isha Bansal",
+  "gender": "F",
+  "age": 26,
+  "email": "isha.bansal@example.com",
+  "location": "Chennai",
+  "years": 4,
+  "skills": [
+   "sql",
+   "excel",
+   "python",
+   "power bi",
+   "tableau"
+  ],
+  "summary": "Candidate with hands-on work in sql, excel, python.",
+  "notice_days": 90,
+  "expected_lpa": 11.2,
+  "relocate": false
+ },
+ {
+  "id": "C-017",
+  "name": "Rahul Mehta",
+  "gender": "M",
+  "age": 23,
+  "email": "rahul.mehta@example.com",
+  "location": "Bengaluru",
+  "years": 4,
+  "skills": [
+   "python",
+   "machine learning",
+   "statistics",
+   "sql",
+   "tensorflow",
+   "nlp"
+  ],
+  "summary": "Candidate with hands-on work in python, machine learning, statistics.",
+  "notice_days": 30,
+  "expected_lpa": 13.3,
+  "relocate": true
+ },
+ {
+  "id": "C-018",
+  "name": "Kavya Iyer",
+  "gender": "F",
+  "age": 30,
+  "email": "kavya.iyer@example.com",
+  "location": "Remote",
+  "years": 3,
+  "skills": [
+   "python",
+   "machine learning",
+   "statistics",
+   "sql",
+   "tensorflow"
+  ],
+  "summary": "Candidate with hands-on work in python, machine learning, statistics.",
+  "notice_days": 45,
+  "expected_lpa": 14.7,
+  "relocate": true
+ },
+ {
+  "id": "C-019",
+  "name": "Aditya Khan",
+  "gender": "M",
+  "age": 27,
+  "email": "aditya.khan@example.com",
+  "location": "Bengaluru",
+  "years": 2,
+  "skills": [
+   "python",
+   "machine learning",
+   "statistics",
+   "tensorflow"
+  ],
+  "summary": "Candidate with hands-on work in python, machine learning, statistics.",
+  "notice_days": 30,
+  "expected_lpa": 12.6,
+  "relocate": true
+ },
+ {
+  "id": "C-020",
+  "name": "Tanvi Joshi",
+  "gender": "F",
+  "age": 24,
+  "email": "tanvi.joshi@example.com",
+  "location": "Chennai",
+  "years": 5,
+  "skills": [
+   "python",
+   "machine learning",
+   "statistics",
+   "sql",
+   "tensorflow"
+  ],
+  "summary": "Candidate with hands-on work in python, machine learning, statistics.",
+  "notice_days": 90,
+  "expected_lpa": 19.6,
+  "relocate": false
+ },
+ {
+  "id": "C-021",
+  "name": "Nikhil Reddy",
+  "gender": "M",
+  "age": 21,
+  "email": "nikhil.reddy@example.com",
+  "location": "Remote",
+  "years": 4,
+  "skills": [
+   "python",
+   "pytorch",
+   "machine learning",
+   "deep learning",
+   "mlops",
+   "docker"
+  ],
+  "summary": "Candidate with hands-on work in python, pytorch, machine learning.",
+  "notice_days": 30,
+  "expected_lpa": 15.2,
+  "relocate": true
+ },
+ {
+  "id": "C-022",
+  "name": "Riya Kulkarni",
+  "gender": "F",
+  "age": 28,
+  "email": "riya.kulkarni@example.com",
+  "location": "Remote",
+  "years": 3,
+  "skills": [
+   "python",
+   "pytorch",
+   "machine learning",
+   "deep learning",
+   "mlops"
+  ],
+  "summary": "Candidate with hands-on work in python, pytorch, machine learning.",
+  "notice_days": 45,
+  "expected_lpa": 16.8,
+  "relocate": true
+ },
+ {
+  "id": "C-023",
+  "name": "Manish Verma",
+  "gender": "M",
+  "age": 25,
+  "email": "manish.verma@example.com",
+  "location": "Remote",
+  "years": 2,
+  "skills": [
+   "python",
+   "pytorch",
+   "machine learning",
+   "mlops"
+  ],
+  "summary": "Candidate with hands-on work in python, pytorch, machine learning.",
+  "notice_days": 30,
+  "expected_lpa": 14.4,
+  "relocate": true
+ },
+ {
+  "id": "C-024",
+  "name": "Shruti Das",
+  "gender": "F",
+  "age": 22,
+  "email": "shruti.das@example.com",
+  "location": "Chennai",
+  "years": 5,
+  "skills": [
+   "python",
+   "pytorch",
+   "machine learning",
+   "deep learning",
+   "mlops"
+  ],
+  "summary": "Candidate with hands-on work in python, pytorch, machine learning.",
+  "notice_days": 90,
+  "expected_lpa": 22.4,
+  "relocate": false
+ },
+ {
+  "id": "C-025",
+  "name": "Yash Rao",
+  "gender": "M",
+  "age": 29,
+  "email": "yash.rao@example.com",
+  "location": "Gurugram",
+  "years": 4,
+  "skills": [
+   "linux",
+   "docker",
+   "ci/cd",
+   "kubernetes",
+   "terraform",
+   "aws"
+  ],
+  "summary": "Candidate with hands-on work in linux, docker, ci/cd.",
+  "notice_days": 30,
+  "expected_lpa": 11.4,
+  "relocate": true
+ },
+ {
+  "id": "C-026",
+  "name": "Nisha Gupta",
+  "gender": "F",
+  "age": 26,
+  "email": "nisha.gupta@example.com",
+  "location": "Remote",
+  "years": 3,
+  "skills": [
+   "linux",
+   "docker",
+   "ci/cd",
+   "kubernetes",
+   "terraform"
+  ],
+  "summary": "Candidate with hands-on work in linux, docker, ci/cd.",
+  "notice_days": 45,
+  "expected_lpa": 12.6,
+  "relocate": true
+ },
+ {
+  "id": "C-027",
+  "name": "Harsh Chauhan",
+  "gender": "M",
+  "age": 23,
+  "email": "harsh.chauhan@example.com",
+  "location": "Gurugram",
+  "years": 2,
+  "skills": [
+   "linux",
+   "docker",
+   "ci/cd",
+   "terraform"
+  ],
+  "summary": "Candidate with hands-on work in linux, docker, ci/cd.",
+  "notice_days": 30,
+  "expected_lpa": 10.8,
+  "relocate": true
+ },
+ {
+  "id": "C-028",
+  "name": "Pallavi Sharma",
+  "gender": "F",
+  "age": 30,
+  "email": "pallavi.sharma@example.com",
+  "location": "Chennai",
+  "years": 5,
+  "skills": [
+   "linux",
+   "docker",
+   "ci/cd",
+   "kubernetes",
+   "terraform"
+  ],
+  "summary": "Candidate with hands-on work in linux, docker, ci/cd.",
+  "notice_days": 90,
+  "expected_lpa": 16.8,
+  "relocate": false
+ },
+ {
+  "id": "C-029",
+  "name": "Dev Singh",
+  "gender": "M",
+  "age": 27,
+  "email": "dev.singh@example.com",
+  "location": "Noida",
+  "years": 3,
+  "skills": [
+   "selenium",
+   "java",
+   "testing",
+   "sql",
+   "cypress",
+   "jenkins"
+  ],
+  "summary": "Candidate with hands-on work in selenium, java, testing.",
+  "notice_days": 30,
+  "expected_lpa": 7.1,
+  "relocate": true
+ },
+ {
+  "id": "C-030",
+  "name": "Simran Nair",
+  "gender": "F",
+  "age": 24,
+  "email": "simran.nair@example.com",
+  "location": "Remote",
+  "years": 2,
+  "skills": [
+   "selenium",
+   "java",
+   "testing",
+   "sql",
+   "cypress"
+  ],
+  "summary": "Candidate with hands-on work in selenium, java, testing.",
+  "notice_days": 45,
+  "expected_lpa": 7.9,
+  "relocate": true
+ },
+ {
+  "id": "C-031",
+  "name": "Varun Patel",
+  "gender": "M",
+  "age": 21,
+  "email": "varun.patel@example.com",
+  "location": "Noida",
+  "years": 1,
+  "skills": [
+   "selenium",
+   "java",
+   "testing",
+   "cypress"
+  ],
+  "summary": "Candidate with hands-on work in selenium, java, testing.",
+  "notice_days": 30,
+  "expected_lpa": 6.8,
+  "relocate": true
+ },
+ {
+  "id": "C-032",
+  "name": "Anjali Bansal",
+  "gender": "F",
+  "age": 28,
+  "email": "anjali.bansal@example.com",
+  "location": "Chennai",
+  "years": 4,
+  "skills": [
+   "selenium",
+   "java",
+   "testing",
+   "sql",
+   "cypress"
+  ],
+  "summary": "Candidate with hands-on work in selenium, java, testing.",
+  "notice_days": 90,
+  "expected_lpa": 10.5,
+  "relocate": false
+ },
+ {
+  "id": "C-033",
+  "name": "Aarav Sharma",
+  "gender": "M",
+  "age": 25,
+  "email": "aarav.sharma@example.com",
+  "location": "Indore",
+  "years": 3,
+  "skills": [
+   "kotlin",
+   "android",
+   "java",
+   "rest api",
+   "jetpack compose",
+   "firebase"
+  ],
+  "summary": "Candidate with hands-on work in kotlin, android, java.",
+  "notice_days": 30,
+  "expected_lpa": 9.0,
+  "relocate": true
+ },
+ {
+  "id": "C-034",
+  "name": "Priya Singh",
+  "gender": "F",
+  "age": 22,
+  "email": "priya.singh@example.com",
+  "location": "Remote",
+  "years": 2,
+  "skills": [
+   "kotlin",
+   "android",
+   "java",
+   "rest api",
+   "jetpack compose"
+  ],
+  "summary": "Candidate with hands-on work in kotlin, android, java.",
+  "notice_days": 45,
+  "expected_lpa": 10.0,
+  "relocate": true
+ },
+ {
+  "id": "C-035",
+  "name": "Rohan Nair",
+  "gender": "M",
+  "age": 29,
+  "email": "rohan.nair@example.com",
+  "location": "Indore",
+  "years": 1,
+  "skills": [
+   "kotlin",
+   "android",
+   "java",
+   "jetpack compose"
+  ],
+  "summary": "Candidate with hands-on work in kotlin, android, java.",
+  "notice_days": 30,
+  "expected_lpa": 8.6,
+  "relocate": true
+ },
+ {
+  "id": "C-036",
+  "name": "Sneha Patel",
+  "gender": "F",
+  "age": 26,
+  "email": "sneha.patel@example.com",
+  "location": "Chennai",
+  "years": 4,
+  "skills": [
+   "kotlin",
+   "android",
+   "java",
+   "rest api",
+   "jetpack compose"
+  ],
+  "summary": "Candidate with hands-on work in kotlin, android, java.",
+  "notice_days": 90,
+  "expected_lpa": 13.3,
+  "relocate": false
+ },
+ {
+  "id": "C-037",
+  "name": "Kabir Bansal",
+  "gender": "M",
+  "age": 23,
+  "email": "kabir.bansal@example.com",
+  "location": "Remote",
+  "years": 4,
+  "skills": [
+   "aws",
+   "linux",
+   "networking",
+   "python",
+   "terraform",
+   "azure"
+  ],
+  "summary": "Candidate with hands-on work in aws, linux, networking.",
+  "notice_days": 30,
+  "expected_lpa": 11.4,
+  "relocate": true
+ },
+ {
+  "id": "C-038",
+  "name": "Ananya Mehta",
+  "gender": "F",
+  "age": 30,
+  "email": "ananya.mehta@example.com",
+  "location": "Remote",
+  "years": 3,
+  "skills": [
+   "aws",
+   "linux",
+   "networking",
+   "python",
+   "terraform"
+  ],
+  "summary": "Candidate with hands-on work in aws, linux, networking.",
+  "notice_days": 45,
+  "expected_lpa": 12.6,
+  "relocate": true
+ },
+ {
+  "id": "C-039",
+  "name": "Imran Iyer",
+  "gender": "M",
+  "age": 27,
+  "email": "imran.iyer@example.com",
+  "location": "Remote",
+  "years": 2,
+  "skills": [
+   "aws",
+   "linux",
+   "networking",
+   "terraform"
+  ],
+  "summary": "Candidate with hands-on work in aws, linux, networking.",
+  "notice_days": 30,
+  "expected_lpa": 10.8,
+  "relocate": true
+ },
+ {
+  "id": "C-040",
+  "name": "Meera Khan",
+  "gender": "F",
+  "age": 24,
+  "email": "meera.khan@example.com",
+  "location": "Chennai",
+  "years": 5,
+  "skills": [
+   "aws",
+   "linux",
+   "networking",
+   "python",
+   "terraform"
+  ],
+  "summary": "Candidate with hands-on work in aws, linux, networking.",
+  "notice_days": 90,
+  "expected_lpa": 16.8,
+  "relocate": false
+ },
+ {
+  "id": "C-041",
+  "name": "Vikram Joshi",
+  "gender": "M",
+  "age": 21,
+  "email": "vikram.joshi@example.com",
+  "location": "Mumbai",
+  "years": 3,
+  "skills": [
+   "networking",
+   "linux",
+   "security",
+   "siem",
+   "python",
+   "penetration testing"
+  ],
+  "summary": "Candidate with hands-on work in networking, linux, security.",
+  "notice_days": 30,
+  "expected_lpa": 9.5,
+  "relocate": true
+ },
+ {
+  "id": "C-042",
+  "name": "Divya Reddy",
+  "gender": "F",
+  "age": 28,
+  "email": "divya.reddy@example.com",
+  "location": "Remote",
+  "years": 2,
+  "skills": [
+   "networking",
+   "linux",
+   "security",
+   "siem",
+   "python"
+  ],
+  "summary": "Candidate with hands-on work in networking, linux, security.",
+  "notice_days": 45,
+  "expected_lpa": 10.5,
+  "relocate": true
+ },
+ {
+  "id": "C-043",
+  "name": "Arun Kulkarni",
+  "gender": "M",
+  "age": 25,
+  "email": "arun.kulkarni@example.com",
+  "location": "Mumbai",
+  "years": 1,
+  "skills": [
+   "networking",
+   "linux",
+   "security",
+   "python"
+  ],
+  "summary": "Candidate with hands-on work in networking, linux, security.",
+  "notice_days": 30,
+  "expected_lpa": 9.0,
+  "relocate": true
+ },
+ {
+  "id": "C-044",
+  "name": "Neha Verma",
+  "gender": "F",
+  "age": 22,
+  "email": "neha.verma@example.com",
+  "location": "Chennai",
+  "years": 4,
+  "skills": [
+   "networking",
+   "linux",
+   "security",
+   "siem",
+   "python"
+  ],
+  "summary": "Candidate with hands-on work in networking, linux, security.",
+  "notice_days": 90,
+  "expected_lpa": 14.0,
+  "relocate": false
+ },
+ {
+  "id": "C-045",
+  "name": "Karan Das",
+  "gender": "M",
+  "age": 29,
+  "email": "karan.das@example.com",
+  "location": "Pune",
+  "years": 3,
+  "skills": [
+   "c",
+   "c++",
+   "microcontrollers",
+   "rtos",
+   "embedded linux",
+   "python"
+  ],
+  "summary": "Candidate with hands-on work in c, c++, microcontrollers.",
+  "notice_days": 30,
+  "expected_lpa": 8.1,
+  "relocate": true
+ },
+ {
+  "id": "C-046",
+  "name": "Pooja Rao",
+  "gender": "F",
+  "age": 26,
+  "email": "pooja.rao@example.com",
+  "location": "Remote",
+  "years": 2,
+  "skills": [
+   "c",
+   "c++",
+   "microcontrollers",
+   "rtos",
+   "embedded linux"
+  ],
+  "summary": "Candidate with hands-on work in c, c++, microcontrollers.",
+  "notice_days": 45,
+  "expected_lpa": 8.9,
+  "relocate": true
+ },
+ {
+  "id": "C-047",
+  "name": "Siddharth Gupta",
+  "gender": "M",
+  "age": 23,
+  "email": "siddharth.gupta@example.com",
+  "location": "Pune",
+  "years": 1,
+  "skills": [
+   "c",
+   "c++",
+   "microcontrollers",
+   "embedded linux"
+  ],
+  "summary": "Candidate with hands-on work in c, c++, microcontrollers.",
+  "notice_days": 30,
+  "expected_lpa": 7.7,
+  "relocate": true
+ },
+ {
+  "id": "C-048",
+  "name": "Isha Chauhan",
+  "gender": "F",
+  "age": 30,
+  "email": "isha.chauhan@example.com",
+  "location": "Chennai",
+  "years": 4,
+  "skills": [
+   "c",
+   "c++",
+   "microcontrollers",
+   "rtos",
+   "embedded linux"
+  ],
+  "summary": "Candidate with hands-on work in c, c++, microcontrollers.",
+  "notice_days": 90,
+  "expected_lpa": 11.9,
+  "relocate": false
+ },
+ {
+  "id": "C-049",
+  "name": "Rahul Sharma",
+  "gender": "M",
+  "age": 27,
+  "email": "rahul.sharma@example.com",
+  "location": "Remote",
+  "years": 3,
+  "skills": [
+   "figma",
+   "wireframing",
+   "user research",
+   "prototyping",
+   "adobe xd",
+   "html"
+  ],
+  "summary": "Candidate with hands-on work in figma, wireframing, user research.",
+  "notice_days": 30,
+  "expected_lpa": 6.6,
+  "relocate": true
+ },
+ {
+  "id": "C-050",
+  "name": "Kavya Singh",
+  "gender": "F",
+  "age": 24,
+  "email": "kavya.singh@example.com",
+  "location": "Remote",
+  "years": 2,
+  "skills": [
+   "figma",
+   "wireframing",
+   "user research",
+   "prototyping",
+   "adobe xd"
+  ],
+  "summary": "Candidate with hands-on work in figma, wireframing, user research.",
+  "notice_days": 45,
+  "expected_lpa": 7.4,
+  "relocate": true
+ },
+ {
+  "id": "C-051",
+  "name": "Aditya Nair",
+  "gender": "M",
+  "age": 21,
+  "email": "aditya.nair@example.com",
+  "location": "Remote",
+  "years": 1,
+  "skills": [
+   "figma",
+   "wireframing",
+   "user research",
+   "adobe xd"
+  ],
+  "summary": "Candidate with hands-on work in figma, wireframing, user research.",
+  "notice_days": 30,
+  "expected_lpa": 6.3,
+  "relocate": true
+ },
+ {
+  "id": "C-052",
+  "name": "Tanvi Patel",
+  "gender": "F",
+  "age": 28,
+  "email": "tanvi.patel@example.com",
+  "location": "Chennai",
+  "years": 4,
+  "skills": [
+   "figma",
+   "wireframing",
+   "user research",
+   "prototyping",
+   "adobe xd"
+  ],
+  "summary": "Candidate with hands-on work in figma, wireframing, user research.",
+  "notice_days": 90,
+  "expected_lpa": 9.8,
+  "relocate": false
+ },
+ {
+  "id": "C-053",
+  "name": "Nikhil Bansal",
+  "gender": "M",
+  "age": 25,
+  "email": "nikhil.bansal@example.com",
+  "location": "Jaipur",
+  "years": 3,
+  "skills": [
+   "sql",
+   "excel",
+   "requirements gathering",
+   "documentation",
+   "power bi",
+   "jira"
+  ],
+  "summary": "Candidate with hands-on work in sql, excel, requirements gathering.",
+  "notice_days": 30,
+  "expected_lpa": 7.6,
+  "relocate": true
+ },
+ {
+  "id": "C-054",
+  "name": "Riya Mehta",
+  "gender": "F",
+  "age": 22,
+  "email": "riya.mehta@example.com",
+  "location": "Remote",
+  "years": 2,
+  "skills": [
+   "sql",
+   "excel",
+   "requirements gathering",
+   "documentation",
+   "power bi"
+  ],
+  "summary": "Candidate with hands-on work in sql, excel, requirements gathering.",
+  "notice_days": 45,
+  "expected_lpa": 8.4,
+  "relocate": true
+ },
+ {
+  "id": "C-055",
+  "name": "Manish Iyer",
+  "gender": "M",
+  "age": 29,
+  "email": "manish.iyer@example.com",
+  "location": "Jaipur",
+  "years": 1,
+  "skills": [
+   "sql",
+   "excel",
+   "requirements gathering",
+   "power bi"
+  ],
+  "summary": "Candidate with hands-on work in sql, excel, requirements gathering.",
+  "notice_days": 30,
+  "expected_lpa": 7.2,
+  "relocate": true
+ },
+ {
+  "id": "C-056",
+  "name": "Shruti Khan",
+  "gender": "F",
+  "age": 26,
+  "email": "shruti.khan@example.com",
+  "location": "Chennai",
+  "years": 4,
+  "skills": [
+   "sql",
+   "excel",
+   "requirements gathering",
+   "documentation",
+   "power bi"
+  ],
+  "summary": "Candidate with hands-on work in sql, excel, requirements gathering.",
+  "notice_days": 90,
+  "expected_lpa": 11.2,
+  "relocate": false
+ },
+ {
+  "id": "C-057",
+  "name": "Yash Joshi",
+  "gender": "M",
+  "age": 23,
+  "email": "yash.joshi@example.com",
+  "location": "Bengaluru",
+  "years": 3,
+  "skills": [
+   "product strategy",
+   "roadmapping",
+   "analytics",
+   "communication",
+   "sql",
+   "jira"
+  ],
+  "summary": "Candidate with hands-on work in product strategy, roadmapping, analytics.",
+  "notice_days": 30,
+  "expected_lpa": 11.4,
+  "relocate": true
+ },
+ {
+  "id": "C-058",
+  "name": "Nisha Reddy",
+  "gender": "F",
+  "age": 30,
+  "email": "nisha.reddy@example.com",
+  "location": "Remote",
+  "years": 2,
+  "skills": [
+   "product strategy",
+   "roadmapping",
+   "analytics",
+   "communication",
+   "sql"
+  ],
+  "summary": "Candidate with hands-on work in product strategy, roadmapping, analytics.",
+  "notice_days": 45,
+  "expected_lpa": 12.6,
+  "relocate": true
+ },
+ {
+  "id": "C-059",
+  "name": "Harsh Kulkarni",
+  "gender": "M",
+  "age": 27,
+  "email": "harsh.kulkarni@example.com",
+  "location": "Bengaluru",
+  "years": 1,
+  "skills": [
+   "product strategy",
+   "roadmapping",
+   "analytics",
+   "sql"
+  ],
+  "summary": "Candidate with hands-on work in product strategy, roadmapping, analytics.",
+  "notice_days": 30,
+  "expected_lpa": 10.8,
+  "relocate": true
+ },
+ {
+  "id": "C-060",
+  "name": "Pallavi Verma",
+  "gender": "F",
+  "age": 24,
+  "email": "pallavi.verma@example.com",
+  "location": "Chennai",
+  "years": 4,
+  "skills": [
+   "product strategy",
+   "roadmapping",
+   "analytics",
+   "communication",
+   "sql"
+  ],
+  "summary": "Candidate with hands-on work in product strategy, roadmapping, analytics.",
+  "notice_days": 90,
+  "expected_lpa": 16.8,
+  "relocate": false
+ },
+ {
+  "id": "C-061",
+  "name": "Dev Das",
+  "gender": "M",
+  "age": 21,
+  "email": "dev.das@example.com",
+  "location": "Kota",
+  "years": 2,
+  "skills": [
+   "troubleshooting",
+   "linux",
+   "sql",
+   "networking",
+   "scripting",
+   "ticketing"
+  ],
+  "summary": "Candidate with hands-on work in troubleshooting, linux, sql.",
+  "notice_days": 30,
+  "expected_lpa": 6.2,
+  "relocate": true
+ },
+ {
+  "id": "C-062",
+  "name": "Simran Rao",
+  "gender": "F",
+  "age": 28,
+  "email": "simran.rao@example.com",
+  "location": "Remote",
+  "years": 1,
+  "skills": [
+   "troubleshooting",
+   "linux",
+   "sql",
+   "networking",
+   "scripting"
+  ],
+  "summary": "Candidate with hands-on work in troubleshooting, linux, sql.",
+  "notice_days": 45,
+  "expected_lpa": 6.8,
+  "relocate": true
+ },
+ {
+  "id": "C-063",
+  "name": "Varun Gupta",
+  "gender": "M",
+  "age": 25,
+  "email": "varun.gupta@example.com",
+  "location": "Kota",
+  "years": 1,
+  "skills": [
+   "troubleshooting",
+   "linux",
+   "sql",
+   "scripting"
+  ],
+  "summary": "Candidate with hands-on work in troubleshooting, linux, sql.",
+  "notice_days": 30,
+  "expected_lpa": 5.9,
+  "relocate": true
+ },
+ {
+  "id": "C-064",
+  "name": "Anjali Chauhan",
+  "gender": "F",
+  "age": 22,
+  "email": "anjali.chauhan@example.com",
+  "location": "Chennai",
+  "years": 3,
+  "skills": [
+   "troubleshooting",
+   "linux",
+   "sql",
+   "networking",
+   "scripting"
+  ],
+  "summary": "Candidate with hands-on work in troubleshooting, linux, sql.",
+  "notice_days": 90,
+  "expected_lpa": 9.1,
+  "relocate": false
+ }
+]
